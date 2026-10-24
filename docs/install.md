@@ -40,7 +40,7 @@ cd ..
 ## Install PolarFormer
 
 ```bash
-git clone https://github.com/fudan-zvg/PolarFormer
+git clone https://github.com/LogosIntelligenceLab/PolarFormer
 cd PolarFormer
 mkdir ckpts
 mkdir data
@@ -49,7 +49,7 @@ ln -s {nuscenes_path} ./data/nuscenes
 ```
 examples
 ```bash
-git clone https://github.com/fudan-zvg/PolarFormer
+git clone https://github.com/LogosIntelligenceLab/PolarFormer
 cd PolarFormer
 mkdir ckpts ###pretrain weights
 mkdir data ###dataset
